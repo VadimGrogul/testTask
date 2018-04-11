@@ -1,0 +1,12 @@
+{
+  "vars": {
+    "@grid-gutter-width": "20",
+    "@container-large-desktop": "1270"
+  },
+  "css": [
+    "grid.less",
+    "responsive-utilities.less"
+  ],
+  "js": [],
+  "customizerUrl": "<none>"
+}
